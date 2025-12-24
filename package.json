@@ -1,0 +1,17 @@
+{
+  "name": "learning-backend",
+  "version": "1.0.0",
+  "description": "first complete backend project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Akshat Jain",
+  "license": "ISC"
+}
